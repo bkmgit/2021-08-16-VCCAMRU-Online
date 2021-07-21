@@ -54,8 +54,7 @@ title: "HPC Carpentry for Chemists"
 # Pilot workshop settings (only relevant for lesson pilots).
 #
 # For a lesson pilot, uncomment the line below and add the URL of the lesson site.
-# pilot_lesson_site: "put the URL of the lesson being piloted here"
-https://carpentries-incubator.github.io/hpc-intro/
+pilot_lesson_site: "https://carpentries-incubator.github.io/hpc-intro/"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your pre-workshop survey
 # pilot_pre_survey: "put the URL of your pre-workshop survey here"
